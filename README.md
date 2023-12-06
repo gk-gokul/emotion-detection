@@ -59,4 +59,3 @@ Some ideas for extending this:
 
 MIT license, free for public use and contributions.
 Let me know if any other sections would be helpful to include!
-# emotion-detection
