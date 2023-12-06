@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 
 face_classifier = cv2.CascadeClassifier(
     r'your model')
-classifier = load_model(r'D:\Emotion Detection\model.h5')
+classifier = load_model(r'model file')
 
 emotion_labels = ['Angry', 'Disgust', 'Fear',
                   'Happy', 'Neutral', 'Sad', 'Surprise']
